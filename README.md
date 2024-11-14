@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Luc and I'm a student in my third year at the University Institute of Technology of La Rochelle in France.</p>
-<p align="left">I'm an osu! player and I'm currently in the top 900</p>
 
 ###
 
