@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Languages and Framworks I use</h2>
+<h2 align="left">Languages I use</h2>
 
 ###
 
