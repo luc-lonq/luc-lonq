@@ -107,13 +107,17 @@
 ###
 
 <div align="left">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" height="40" alt="clion logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
