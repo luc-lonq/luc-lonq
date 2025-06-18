@@ -3,7 +3,7 @@
 ###
 
 <p align="left">I'm Luc and I'm a third-year student at the University Institute of Technology in La Rochelle, France.</p>
-<p align="left">I'm currently studying Fullstack Development, but I'm interested in exploring data science and machine learning in the future, and maybe shift my focus in that direction.</p>
+<p align="left">I'm currently studying Fullstack Development, but I'm interested in exploring data science and machine learning in the future.</p>
 
 ###
 
