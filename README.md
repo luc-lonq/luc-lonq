@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm Luc, I love Laravel, and I recently graduated from the University Institute of Technology in La Rochelle, France, where I completed a three-year program specializing in Fullstack Development. I'm about to start a Master's degree in Computer Science, with a focus on Software Architecture.
+  I'm Luc, I'm 20 years old, and I recently graduated from the University Institute of Technology in La Rochelle, France, where I completed a three-year program specializing in Fullstack Development. I'm about to start a Master's degree in Computer Science, with a focus on Software Architecture.
 </p>
 
 ## Main Tech Stack
