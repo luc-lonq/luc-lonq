@@ -3,5 +3,5 @@
 ###
 
 <p align="left">
-  I'm Luc, I'm 20 years old, and I'm currently doing a Master's degree in Computer Science specialized in Software Architecture.
+  I'm Luc, I'm 21 years old, and I'm currently doing a Master's degree in Computer Science specialized in Software Architecture.
 </p>
