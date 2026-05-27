@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">I'm currently working on a "score tracker" from french players on the video game "osu!"</p>
+<p align="left">In my free time, I'm currently working on a "score tracker" from french players on the video game "osu!"</p>
 
 ###
 
